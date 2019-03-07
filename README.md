@@ -1,8 +1,6 @@
-# Newton-s_forward_interpolation
-Interpolation is the technique of estimating the value of a function for any intermediate value of the independent variable
-  - Forward interpolation formula is used to interpolate the values of y nearer to the beginning value of the given table.
-  - Also this formula is applicable if in case where h(difference in intravel) is constant 
- 
+# Interpolation
+he process of finding the curve passing through the points (x<sub>&theta;</sub>) is called as Interpolation and the curve obtained is called as Interpolating curve.
+  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
   ![01](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/01.PNG)
 
 ```MATLAB
