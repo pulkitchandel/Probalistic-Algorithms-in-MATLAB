@@ -1,7 +1,10 @@
 # Interpolation
-The process of finding the curve passing through the points *(x<sub>0</sub>,y<sub>0</sub>),(x<sub>1</sub>,y<sub>1</sub>),(x<sub>2</sub>,y<sub>2</sub>),...,(x<sub>n</sub>,y<sub>n</sub>)* is called as **Interpolation** and the curve obtained is called as **Interpolating curve.**
-Let *x<sub>0</sub>,x<sub>1</sub>,x<sub>2</sub>,...,x<sub>n</sub>* be given set of observations and *y=f(x)* be the given function, then the method to find is called as an **Interpolation.**
-If is not in the range of and , then the method to find is called as **Extrapolation**.
+The process of finding the curve passing through the points *(x<sub>0</sub>,y<sub>0</sub>),(x<sub>1</sub>,y<sub>1</sub>),(x<sub>2</sub>,y<sub>2</sub>),...,(x<sub>n</sub>,y<sub>n</sub>)* is called as **Interpolation** and the curve obtained is called as **Interpolating curve.** 
+
+Let *x<sub>0</sub>,x<sub>1</sub>,x<sub>2</sub>,...,x<sub>n</sub>* be given set of observations and *y=f(x)* be the given function, then  
+the method to find *f(x<sub>m</sub>) ∀ x<sub>o</sub>≤x<sub>m</sub>≤x<sub>n</sub>* is called as an **Interpolation.** 
+
+If *x<sub>m</sub>* is not in the range of *x<sub>o</sub>* and *x<sub>n</sub>* , then the method to find is called as **Extrapolation**.
 
 ```MATLAB
 %To find value of f(x) at any point of x using newton-interpolation formula
