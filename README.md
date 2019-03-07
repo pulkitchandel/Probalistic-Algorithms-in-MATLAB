@@ -1,7 +1,6 @@
 # Interpolation
-he process of finding the curve passing through the points (x<sub>&theta;</sub>) is called as Interpolation and the curve obtained is called as Interpolating curve.
+he process of finding the curve passing through the points (x<sub>0</sub>,y<sub>0</sub>) is called as Interpolation and the curve obtained is called as Interpolating curve.
   h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-  ![01](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/01.PNG)
 
 ```MATLAB
 %To find value of f(x) at any point of x using newton-interpolation formula
