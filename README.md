@@ -1,5 +1,5 @@
 # Interpolation
-he process of finding the curve passing through the points (x<sub>0</sub>,y<sub>0</sub>) is called as Interpolation and the curve obtained is called as Interpolating curve.
+he process of finding the curve passing through the points *(x<sub>0</sub>,y<sub>0</sub>),(x<sub>1</sub>,y<sub>1</sub>),(x<sub>2</sub>,y<sub>2</sub>),...,(x<sub>n</sub>,y<sub>n</sub>)* is called as Interpolation and the curve obtained is called as Interpolating curve.
   h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 ```MATLAB
