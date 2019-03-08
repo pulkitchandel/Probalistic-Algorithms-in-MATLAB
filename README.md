@@ -10,7 +10,7 @@ The Interpolation depends upon finite difference concept.If *x<sub>0</sub>,x<sub
 
 # Bisection Method
 Bisection method is the simplest among all the numerical schemes to solve the transcendental equations. It follows [Intermediate value theorem.](https://www.mathsisfun.com/algebra/intermediate-value-theorem.html)  
-![bisec](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/demo-a.mp4)
+![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/demo-a.mp4)
 
 # Newton-Raphson Method
 # Gauss-Seidal Method
