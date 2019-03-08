@@ -1,6 +1,6 @@
 # Interpolation
 The process of finding the curve passing through the points *(x<sub>0</sub>,y<sub>0</sub>),(x<sub>1</sub>,y<sub>1</sub>),(x<sub>2</sub>,y<sub>2</sub>),...,(x<sub>n</sub>,y<sub>n</sub>)* is called as **Interpolation** and the curve obtained is called as **Interpolating curve.**  
-![]<img src="https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/interpol.PNG" width="600" height="500" />
+<img src="https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/interpol.PNG" width="600" height="500" />
 
 Let *x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>,..., x<sub>n</sub>* be given set of observations and *y=f(x)* be the given function, then  
 the method to find *f(x<sub>m</sub>) ∀ x<sub>o</sub>≤x<sub>m</sub>≤x<sub>n</sub>* is called as an **Interpolation.** 
