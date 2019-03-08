@@ -1,6 +1,6 @@
 # Interpolation
 The process of finding the curve passing through the points *(x<sub>0</sub>,y<sub>0</sub>),(x<sub>1</sub>,y<sub>1</sub>),(x<sub>2</sub>,y<sub>2</sub>),...,(x<sub>n</sub>,y<sub>n</sub>)* is called as **Interpolation** and the curve obtained is called as **Interpolating curve.**  
-![interpol](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/interpol.PNG)
+![interpol]<img src="https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/interpol.PNG" width="40" height="40" />
 
 Let *x<sub>0</sub>, x<sub>1</sub>, x<sub>2</sub>,..., x<sub>n</sub>* be given set of observations and *y=f(x)* be the given function, then  
 the method to find *f(x<sub>m</sub>) ∀ x<sub>o</sub>≤x<sub>m</sub>≤x<sub>n</sub>* is called as an **Interpolation.** 
@@ -10,7 +10,7 @@ The Interpolation depends upon finite difference concept.If *x<sub>0</sub>,x<sub
 
 # Bisection Method
 Bisection method is the simplest among all the numerical schemes to solve the transcendental equations. It follows [Intermediate value theorem.](https://www.mathsisfun.com/algebra/intermediate-value-theorem.html)  
-![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/demo-a.mp4)
+![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/demo-a.gif)
 
 # Newton-Raphson Method
 # Gauss-Seidal Method
