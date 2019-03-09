@@ -26,4 +26,6 @@ Suppose you need to find the root of a continuous, differentiable function *f(x)
   This process may be repeated as many times as necessary to get the desired accuracy. In general, for any x-value , the next value x<sub>n</sub> is given by  
   x<sub>n+1</sub> = x<sub>n</sub>-(f(x<sub>n</sub>)/f'(x<sub>n</sub>))
 
-![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/cube_root_27_anim.gif)
+
+![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/cube_root_27_anim.gif)  
+[MATLAB code](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/newtonraph.m)
