@@ -20,7 +20,11 @@ Bisection method is the simplest among all the numerical schemes to solve the tr
     If , ***f(a)*f(b)=0*** then the root is *c* ; STOP!  
 
 # Newton-Raphson Method  
-
+The Newton-Raphson method (also known as Newton's method) is a way to quickly find a good approximation for the root of a real-valued function . It uses the idea that a continuous and differentiable function *f(x)=0* can be approximated by a straight line tangent to it.  
+Suppose you need to find the root of a continuous, differentiable function *f(x)*, and you know the root you are looking for is near the point *x=x<sub>0</sub>*. Then Newton's method tells us that a better approximation for the root is  
+        x<sub>1</sub> = x<sub>0</sub>-(f(x<sub>0</sub>)/f'(x<sub>0</sub>))  
+  This process may be repeated as many times as necessary to get the desired accuracy. In general, for any x-value , the next value x<sub>n</sub> is given by  
+  x<sub>n+1</sub> = x<sub>n</sub>-(f(x<sub>n</sub>)/f'(x<sub>n</sub>))
 
 ![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/cube_root_27_anim.gif)
 # Gauss-Seidal Method
