@@ -14,7 +14,10 @@ Bisection method is the simplest among all the numerical schemes to solve the tr
 ## Algorithm
 
 
-# Newton-Raphson Method
+# Newton-Raphson Method  
+
+
+![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/cube_root_27_anim.gif)
 # Gauss-Seidal Method
 # Newton's Forward Interpolation  
-# Newton's Forward Interpolation  
+# Newton's Backward Interpolation  
