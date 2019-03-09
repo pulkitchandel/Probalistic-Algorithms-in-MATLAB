@@ -27,6 +27,3 @@ Suppose you need to find the root of a continuous, differentiable function *f(x)
   x<sub>n+1</sub> = x<sub>n</sub>-(f(x<sub>n</sub>)/f'(x<sub>n</sub>))
 
 ![](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/edit/cube_root_27_anim.gif)
-# Gauss-Seidal Method
-# Newton's Forward Interpolation  
-# Newton's Backward Interpolation  
