@@ -14,10 +14,10 @@ Bisection method is the simplest among all the numerical schemes to solve the tr
 ## Algorithm
 - Choose *a* and *b* as two guesses for the root such that f(a) f(b) < 0, or in other words, ***f(x) changes sign between a and b***
 - Estimate the root, *c* of the equation f (x) = 0 as the mid point between *a* and *b* as *c=(a+b)/2*  
--- Now check the following
-    If , ***f(a)*f(b)<0*** then the root lies between *a* and *c* ; then *a = a ; b = c*.
-    If , ***f(a)*f(b)>0*** then the root lies between *c* and *b* ; then *a = c ; b = b*.
-    If , ***f(a)*f(b)=0*** then the root is *c* ; STOP!
+-- Now check the following  
+    If , ***f(a)*f(b)<0*** then the root lies between *a* and *c* ; then *a = a ; b = c*.  
+    If , ***f(a)*f(b)>0*** then the root lies between *c* and *b* ; then *a = c ; b = b*.  
+    If , ***f(a)*f(b)=0*** then the root is *c* ; STOP!  
 
 # Newton-Raphson Method  
 
