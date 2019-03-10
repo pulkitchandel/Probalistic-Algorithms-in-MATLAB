@@ -17,7 +17,7 @@ Bisection method is the simplest among all the numerical schemes to solve the tr
 -- Now check the following  
     If , ***f(a)*f(b)<0*** then the root lies between *a* and *c* ; then *a = a ; b = c*.  
     If , ***f(a)*f(b)>0*** then the root lies between *c* and *b* ; then *a = c ; b = b*.  
-    If , ***f(a)*f(b)=0*** then the root is *c* ; STOP!  
+    If , ***f(a)*f(b)=0*** then the root is *c* ; STOP the code!  
 
 # Newton-Raphson Method  
 The Newton-Raphson method (also known as Newton's method) is a way to quickly find a good approximation for the root of a real-valued function . It uses the idea that a continuous and differentiable function *f(x)=0* can be approximated by a straight line tangent to it.  
