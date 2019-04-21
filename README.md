@@ -43,3 +43,5 @@ The process of evaluating a definite integral from a set of tabulated values of 
 ## Simpson's three-eighth rule
 ![simthreeeight](https://latex.codecogs.com/gif.latex?%5Cint_%7Bx_0%7D%5E%7Bx_0&plus;3h%7Df%28x%29dx%3D%5Cfrac%7B3h%7D%7B8%7D%5B%28y_0&plus;y_n%29&plus;3%28y_1&plus;y_2&plus;y_4&plus;y_5...y_%7Bn-1%7D%29&plus;2%28y_3&plus;y_6&plus;...&plus;y_%7Bn-3%7D%29%5D)  
 [MATLAB Code](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/master/simpson_ThreeEightRule.m)
+# Gauss-Seidal
+[gauss-seidal](https://github.com/pulkitchandel/Probalistic-Algorithms-in-MATLAB/blob/master/GaussSeidelMethod.m)
